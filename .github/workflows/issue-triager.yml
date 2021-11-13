@@ -1,4 +1,5 @@
 name: Issue triager
+
 on:
   issues:
     types: [opened]
